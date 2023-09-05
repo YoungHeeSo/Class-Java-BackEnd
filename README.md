@@ -20,9 +20,12 @@ JAVA_HOME | "C:\Program Files\Java\jdk-17"
 Path | "C:\Program Files\Java\jdk-17\bin", "D:\backEnd\apache-tomcat-9.0.80\bin"
 위로이동
 
-app > Window > Preferences >
+app > Window > Preferences > Files 검색 > Web >
 CSS Files | HTML Files | JSP Files
 Encoding | ISO 10646/Unicode(UTF-8)
 
-Fill > New > Dynamic Web Project > src > main > webapp > New > create fill
+Fill > New > Dynamic Web Project > src > main > webapp > New > create file
 check Generate web.xml deployment descriptor
+
+Servers > New > Server > Apache > Check Tomcat v9.0 > Add folder > Click Finish
+
