@@ -1,6 +1,6 @@
 # Java-BackEnd
 
-# 환경설정
+# backend 환경설정
 
 create backEnd file
 
@@ -29,4 +29,16 @@ src > main > webapp > New > create file
 Servers > New > Server > Apache > Check Tomcat v9.0 > Add folder > Click Finish
 
 cmd > startup 
+
+# bootstrap (CSS)
+
+https://getbootstrap.com/docs/5.1/getting-started/download/ > Getting started > Download > Compiled CSS and JS Download 
+
+backEnd > webapp > create css > 
+bootstrap file name "bootstrap-5.1.3-dist" > css > bootstrap.min.css > Add backEnd/css file 
+
+# backEnd file setting
+Java Resources folder > Craete Servlet > Java package, Class name > next > Add URL Mappings > Pattern file name "/*" > doGet, doPost >
+"protected void doGet" in response.getWriter()... 주석
+
 
