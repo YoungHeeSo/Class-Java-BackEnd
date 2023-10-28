@@ -1,6 +1,4 @@
-# Java-BackEnd
-
-# backend 환경설정
+# Java-BackEnd 환경설정
 
 create backEnd file
 
@@ -40,5 +38,12 @@ bootstrap file name "bootstrap-5.1.3-dist" > css > bootstrap.min.css > Add backE
 # backEnd file setting
 Java Resources folder > Craete Servlet > Java package, Class name > next > Add URL Mappings > Pattern file name "/*" > doGet, doPost >
 "protected void doGet" in response.getWriter()... 주석
+
+# JSP mySQL
+mysql 8.0.34버전 설치, mysql workbench 8.0.34버전 설치, mariadb-10.3.14 버전 설치, mysql-connector-j-8.0.32 버전 설치
+mysql-connector-j-8.0.32 압축 풀기 -> "mysql-connector-j-8.0.32.jar", "Java\jdk-17\lib"경로에 넣어주기
+
+
+
 
 
